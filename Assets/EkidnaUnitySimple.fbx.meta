@@ -3,7 +3,87 @@ guid: 6949890180becf34aab1f3b35fe23687
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 911a411fdce29124d9cdd48dd1b32fec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ButterDeco1
+    second: {fileID: 2100000, guid: 1bbc1b1d92fd4b84e86a49eb937eb403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ButterDeco2
+    second: {fileID: 2100000, guid: c29ead331761e404abb42e6cd3d08c7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DecoMetal
+    second: {fileID: 2100000, guid: eb453df69ff2d3c408aca3ba99867bd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: f505a232958a38c4dbbde7ddc7aee5aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeDeco
+    second: {fileID: 2100000, guid: 0e76bf2f3ff4c3d4f916c5b012cdf4d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyeglass
+    second: {fileID: 2100000, guid: 769fd0f86bbd0964e9f044d44a5d0802, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InnerHair
+    second: {fileID: 2100000, guid: c7842dc79d4d21e45b747dda0afdbe0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoe
+    second: {fileID: 2100000, guid: a03b2328343c07a45a050666113ad10f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoe2
+    second: {fileID: 2100000, guid: 602df66330c5bf042802d215aeb63f08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suit
+    second: {fileID: 2100000, guid: 593864229e9f8124ea937e9208ed11e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyelashes
+    second: {fileID: 2100000, guid: 4bb23448dbc5b2940a1b844eb91732de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold
+    second: {fileID: 2100000, guid: 4587e655e9a47634ab8cb49736f41600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pants
+    second: {fileID: 2100000, guid: 56fc3bbc3db635240932b4533bdf2f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirt
+    second: {fileID: 2100000, guid: 8c2341d234b48db42b05c3d24a0551ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue
+    second: {fileID: 2100000, guid: 23bba1f759a4c9c498edec45a762efe6, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -44,7 +124,7 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
